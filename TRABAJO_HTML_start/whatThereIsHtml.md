@@ -45,4 +45,17 @@
         <h6> HELLO WORLD </h6>
     ```
 
-    ![img](ruta/de/la/imagen)
+    ![img](/TRABAJO_HTML_start/img/Titulos.PNG)
+
+    ### Etiquetas de parrafo
+
+    - Se pone con una (p) ``<p> </p>`` con esta etiqueta podemos escribir parrafos para darle informacion a la pagina 
+
+    ```html
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic nihil eius ex incidunt ipsa iste nesciunt vel natus harum sapiente, modi quas rem a voluptatem, placeat laboriosam mollitia facere culpa.</p>
+
+    ```
+    ![img](/TRABAJO_HTML_start/img/Parrafo.PNG)
+
+    
