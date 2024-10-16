@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    
+    "target": "es2016",  /*Sirve para que pueda usar import*/
+    "module": "commonjs",  /*Sirve para que pueda usar import*/
+    "esModuleInterop": true,  /*Sirvr para que pueda usar import*/
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+  
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "rootDir": "./src"
+  },
+
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
