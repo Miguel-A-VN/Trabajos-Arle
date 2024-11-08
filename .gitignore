@@ -1,6 +1,2 @@
-/.vscode
-/Segundo-Trimestre/ApirestJs/node_modules/
-/Segundo-Trimestre/node_project/node_modules/
-/Segundo-Trimestre/node_project/.env
-/Segundo-Trimestre/Apirest/node_modules/
-/Segundo-Trimestre/Apirest/.env
+./.vscode
+./certificates/
