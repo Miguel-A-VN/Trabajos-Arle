@@ -1,2 +1,5 @@
-./.vscode
-./certificates/
+.vscode/
+certificates/
+primer-trimestre/Libros-Electronicos-SENA-By-Miguel-AVN/node_modules/
+segundo-trimestre/ApirestJs/.env
+segundo-trimestre/node_project/node_modules/
